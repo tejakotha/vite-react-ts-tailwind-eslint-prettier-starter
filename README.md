@@ -7,5 +7,5 @@ Starter Vite template
 - React
 - Typescript
 - Tailwind
-- ESLint
+- ESLint(with airbnb-typescript configuration)
 - Prettier
